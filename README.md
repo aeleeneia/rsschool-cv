@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aeleeneia.github.io/rsschool-cv/cv

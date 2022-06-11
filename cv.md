@@ -1,7 +1,7 @@
-#Alina Shegay CV
+# Alina Shegay CV
 
 Name: **Alina Shegay**
-![cv-photo](rsschool-cv/IMG_5256.JPG)
+![cv-photo](/Users/alinashegay/Desktop/rs_school/Markdown & Git/rsschool-cv/IMG_5256.JPG)
 
 Contact details
 * Email: shegay.alina@gmail.com
@@ -15,7 +15,7 @@ Skills:
 Javascript, HTML, CSS, BEM, Bootstrap, Git
 
 Work experience: 
-Real estate agency landing page, education courses webpage
+Created prototype webpages: Real estate agency, online courses webpage
 * Marketing Manager (ITECA): 2019 - Present
 * Project Manager (Axis Education): 2016 - 2018
 
