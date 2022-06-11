@@ -1,7 +1,7 @@
 # Alina Shegay CV
 
 Name: **Alina Shegay**
-![cv-photo](/Users/alinashegay/Desktop/rs_school/Markdown & Git/rsschool-cv/IMG_5256.JPG)
+![cv-photo](https://media-exp1.licdn.com/dms/image/C4E03AQG0V2FWR2EYaA/profile-displayphoto-shrink_400_400/0/1593172407488?e=1660176000&v=beta&t=dj-Y9gC7Bp97yQ-kbcI6Fzxht8Aytlyky8Z93z7Fx8U)
 
 Contact details
 * Email: shegay.alina@gmail.com
